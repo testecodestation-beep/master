@@ -1,6 +1,6 @@
 #Author: Samuel Xavier
 
-@qualquercoisa  @formularioAberturaContaPJ
+@qualquercoisa  
 Feature: Abertura de conta PF
   
 
@@ -34,4 +34,5 @@ Feature: Abertura de conta PF
 
        |nome           |CNPJ                |
        |"Samuel Xavier"|"94.474.503/0001-42"|
+       |"samuel teste" |"000000000000000000"|
 
